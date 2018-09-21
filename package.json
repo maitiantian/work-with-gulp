@@ -14,7 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/maitiantian/work-with-gulp.git"
   },
-  "keywords": ["gulp"],
+  "keywords": [
+    "gulp"
+  ],
   "author": "maitiantian",
   "license": "ISC",
   "bugs": {
