@@ -9,7 +9,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clear": "git checkout c4f4f88 ./src"
+    "normal": "git checkout c0afa3a ./src",
+    "react": "git checkout c0afa3a ./src"
   },
   "repository": {
     "type": "git",
